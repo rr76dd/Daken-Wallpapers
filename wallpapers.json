@@ -1,16 +1,18 @@
 [
-	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://framerusercontent.com/images/fIu6jy2miRymE6eCl7RmQeWn0DY.png",
-		"thumbnail": "https://framerusercontent.com/images/fIu6jy2miRymE6eCl7RmQeWn0DY.png",
-		"downloadable": false,
-	},
-	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"downloadable": false,
-	}
+  {
+    "name": "Wallpaper 1",
+    "url": "https://imgur.com/gallery/wall-s25-1-Ug0rcoM",
+    "thumbnail": "https://imgur.com/gallery/wall-s25-1-Ug0rcoM",
+    "collections": "Abstract,Nature",
+    "downloadable": true,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "Wallpaper 2",
+    "url": "https://imgur.com/gallery/wall-s25-2-ECbdK1i",
+    "thumbnail": "https://imgur.com/gallery/wall-s25-2-ECbdK1i",
+    "collections": "Minimal,Dark",
+    "downloadable": true,
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  }
 ]
