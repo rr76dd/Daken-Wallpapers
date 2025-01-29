@@ -1,14 +1,16 @@
-{
-  "Wallpapers": [
-    {
-      "name": "Dark Waves",
-      "author": "Fahd",
-      "url": "https://framerusercontent.com/images/fIu6jy2miRymE6eCl7RmQeWn0DY.png",
-    },
-    {
-      "name": "Cyber Neon",
-      "author": "Fahd",
-      "url": "https://yourwebsite.com/wallpapers/cyber_neon.jpg",
-    }
-  ]
-}
+[
+	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://framerusercontent.com/images/fIu6jy2miRymE6eCl7RmQeWn0DY.png",
+		"thumbnail": "https://framerusercontent.com/images/fIu6jy2miRymE6eCl7RmQeWn0DY.png",
+		"downloadable": false,
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"downloadable": false,
+	}
+]
